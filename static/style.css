@@ -1,0 +1,35 @@
+body {
+  margin: 9rem;
+  font-family: monospace;
+  text-align: center;
+  align-items: center;
+}
+
+main {
+  border: 2px solid;
+  background-color: #eee;
+  width: 60vw;
+  margin: auto;
+}
+
+div {
+  margin-top: 2vh;
+}
+
+img {
+  margin-top: 5vh;
+  margin-bottom: 9vh;
+  max-width: 60vw;
+}
+
+input[type=submit] {
+  cursor: pointer;
+}
+
+input[type=submit]:hover {
+  background-color: #fff;
+}
+
+.titleDiv {
+  padding-top: 10vh;
+}
