@@ -1,14 +1,17 @@
 body {
-  margin: 9rem;
+  background-color: #eee;
   font-family: monospace;
   text-align: center;
   align-items: center;
 }
 
 main {
-  border: 2px solid;
-  background-color: #eee;
-  width: 60vw;
+  border-radius: 12px;
+  padding: 3rem;
+  border: 4px solid #ddd;
+  background-color: #ddd;
+  width: 50vw;
+  height: 85vh;
   margin: auto;
 }
 
@@ -17,9 +20,9 @@ div {
 }
 
 img {
-  margin-top: 5vh;
+  margin-top: 9vh;
   margin-bottom: 9vh;
-  max-width: 60vw;
+  max-width: 50vw;
 }
 
 input[type=submit] {
