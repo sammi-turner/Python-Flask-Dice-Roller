@@ -28,4 +28,4 @@ Once the server is running, open your browser at [localhost:5000](http://localho
 
 # To close the server process
 
-Enter CTRL + c BEFORE closing the terminal window.
+Enter CTRL + c, BEFORE closing the terminal window.
