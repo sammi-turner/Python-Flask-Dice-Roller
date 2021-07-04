@@ -1,4 +1,4 @@
-# Python-Flask-Dice-Roller
+# Flask-Dice-Roller
 
 Roll virtual polyhedral dice.
 
